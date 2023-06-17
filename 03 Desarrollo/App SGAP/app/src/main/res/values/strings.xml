@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Sistema Agua Potable</string>
+
+    <string name="folio">Folio:</string>
+    <string name="no_toma">Número de toma:</string>
+    <string name="fecha">Fecha de pago:</string>
+    <string name="monto">Monto a pagar:</string>
+    <string name="nombre_del_cobrador">Nombre del cobrador:</string>
+
 </resources>
