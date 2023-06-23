@@ -2,8 +2,8 @@ package Commons;
 
 public class ConfigBD {
     static public String Servidor="localhost";
-    static public String BaseDatos="loreto_agua_potable";
-    static public String Usuario="admin";
-    static public String Contrasenna="1234";
+    static public String BaseDatos="agua_potable_loreto";
+    static public String Usuario="root";
+    static public String Contrasenna="";
 }
 
